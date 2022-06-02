@@ -7,7 +7,7 @@ v1.0 Jun 2022
 * Lambda Node.js 16.x - zip Package
 ```
 
-## Use
+## Before Use
 ```
 Note: Before start, check the values of Twitter tokens on index.js
 1) Create a Lambda on your favorite region {zemoga}
@@ -17,7 +17,7 @@ Note: Before start, check the values of Twitter tokens on index.js
 5) Create a Table (zemoga) on DynamoDB on the same region and add permissions to Lambda could can access.
 ```
 
-## Uso
+## Use
 ```
 * To put data and store on Dynamo use:
 
